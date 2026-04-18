@@ -211,3 +211,7 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Naming Conventions
+
+- **Booleans:** Prefix with `is_` (e.g., `is_left_to_right`, `is_visible`, `is_enabled`) — makes them easy to spot at a glance

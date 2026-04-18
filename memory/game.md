@@ -5,10 +5,12 @@ _Updated as development progresses. Skarly reads this at session start._
 ---
 
 ## Project Overview
-- **Project Name**: (TODO: fill in)
+- **Project Name**: Manga Maker App
+- **Type**: Application (built in Godot 4.x — not a game)
 - **Engine**: Godot 4.x (stable)
 - **Languages**: GDScript + C#
 - **Platform**: (TODO: fill in — PC? Mobile? Both?)
+- **Control**: API / MCP interface
 - **Started**: 2026-03-26
 
 ---
@@ -16,7 +18,7 @@ _Updated as development progresses. Skarly reads this at session start._
 ## Architecture
 
 ### Decisions Made
-- (TODO)
+- Programming must be **modular** and **object-oriented** (OOP)
 
 ### Key Systems
 - (TODO)

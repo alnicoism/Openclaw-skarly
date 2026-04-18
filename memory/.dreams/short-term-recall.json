@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-17T02:59:34.764Z",
+  "entries": {
+    "memory:memory/2026-03-28.md:1:22": {
+      "key": "memory:memory/2026-03-28.md:1:22",
+      "path": "memory/2026-03-28.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-03-28 ## Manga Maker Project — Planning Session Nico is brainstorming the Manga Maker app. Initial plan written to Obsidian vault: `Manga Maker/Planning.md` ### Key Decisions Made - Godot 4 as production GUI (not for PSD export — Python handles that) - Tween-based animation (not keyframe) - User-defined canvas size - Minimal UI for now - Project folder + JSON manifest format - Layer system: extensible base Layer class - MCP/API: file-based queue to start (HTTP later) - Python PSD export via psd-tools ### Next Step Nico wants to brainstorm more before coding. He'll add thoughts to the Obsidian Planning note or come back with questions/updates. ## MD Files Config - SOUL.md, IDENTIT",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.214381910034955,
+      "maxScore": 0.8144065162372985,
+      "firstRecalledAt": "2026-04-11T07:45:40.882Z",
+      "lastRecalledAt": "2026-04-17T02:59:34.764Z",
+      "queryHashes": [
+        "fea85d14c521",
+        "a0be1d829058",
+        "dbb07583711f"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-14",
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "maker/planning.md",
+        "tween-based",
+        "user-defined",
+        "mcp/api",
+        "file-based",
+        "psd-tools",
+        "questions/updates",
+        "soul.md"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{"type":"memory.recall.recorded","timestamp":"2026-04-11T07:45:40.882Z","query":"recent projects decisions context","resultCount":1,"results":[{"path":"memory/2026-03-28.md","startLine":1,"endLine":22,"score":0.6999876968988281}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-14T13:55:25.760Z","query":"VI.V note godot MCP starting instructions","resultCount":1,"results":[{"path":"memory/2026-03-28.md","startLine":1,"endLine":22,"score":0.6999876968988281}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-17T02:59:34.764Z","query":"Obsidian MainCamera camera focus page frame subview boundary","resultCount":1,"results":[{"path":"memory/2026-03-28.md","startLine":1,"endLine":22,"score":0.8144065162372985}]}
