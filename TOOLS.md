@@ -3,10 +3,9 @@
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
 ## Obsidian
-
-- **Vault:** skarly
-- **Path:** /home/henry/Qsync/Obsidian/skarly
-- **Access:** Via Obsidian MCP (mcporter)
+- **Vaults:** `/home/henry/Obsidian Vault/` (rclone bisync to alnicoismgdrive)
+  - `Athiania`, `VIV`, `skarly`
+- **Qsync source:** `/home/henry/Qsync/Obsidian/`
 
 ---
 
